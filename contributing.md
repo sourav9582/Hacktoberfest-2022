@@ -12,7 +12,7 @@ Add your Code/Projects to specific folders created for you, if your desired fold
 
 1. [Fork](https://github.com/AliDoCode/Hacktoberfest-2022/fork) and clone the repository.
 1. Create a new branch: `git checkout -b my-branch-name`.
-1. Push to your fork and [submit a pull request](https://github.com/OtacilioN/awesome-hacktoberfest-2018/compare).
+1. Push to your fork and [submit a pull request](https://github.com/AliDoCode/Hacktoberfest-2022/compare).
 > Tips: Make sure that you are submitting and committing things that are of quality substance, otherwise maintainers can invalidate your pull request
 > There are a lot of good websites that you can research before opening a request instead of just writing "cool" or "Hello World"
 5. Pat yourself on the back and wait for your `pull request` to be reviewed and merged.

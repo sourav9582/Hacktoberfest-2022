@@ -10,4 +10,8 @@ Welcome hackers! It is **awesome** to have you here! Before you start contributi
 
 This repository was created to help developers get started with Open Source during [Hacktoberfest](https://hacktoberfest.digitalocean.com/).
 # So What is Hacktoberfest ?
+Hacktoberfest is a month-long celebration of open source projects, their maintainers, and the entire community of contributors. Each October, open source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub.
+
+# How can you contribute?
+
 
